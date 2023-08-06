@@ -1,0 +1,12 @@
+.bg-custom
+{
+	/*choose colours from -> https://materializecss.com/color.html  */
+	background-color: #9575cd; 
+}
+
+.navbar .nav-item:hover .nav-link
+{
+	background-color: white;
+	color: #ec407a;
+	border-radius: 15px;
+}
